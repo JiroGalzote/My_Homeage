@@ -1,0 +1,107 @@
+.login_box {
+    width: 500px;
+    height: 550px;
+    padding: 10px;
+    margin: 50px;
+    background:rgba(26, 23, 23, 0.4);
+
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+body {
+	  
+    background-image: url(bkc.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover; 
+     background-position: center;
+  }
+  p {
+
+    text-align: center;
+    color:  white;
+    font-size: 20px;
+
+  }
+  form {
+    text-align: center;
+    
+  }
+
+input{
+  color: black;
+   width: 400px;
+  height: 45px;
+  background: white;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+  cursor: pointer;
+  font-size: 16px;
+
+  font-weight: 600;
+}
+
+#fname{
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+}
+  
+a{
+position: relative;
+left: 220px;
+color: rgb(0, 0, 0);
+background:rgb(255, 255, 255, 0.3);
+font-size:20px;
+}
+
+.github{
+  position: relative;
+  left: 150px;
+  top: 30px;
+
+}
+
+#passlink{
+  position: relative;
+  left: 240px;
+  bottom:41px;
+  color: rgb(0, 0, 0);
+  background:rgb(255, 255, 255, 0.3);
+
+  }
+
+#porgot{
+  position: relative;
+  right: 40px;
+
+
+  }
+
+  .greetings {  
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    color: white;
+    background:rgba(26, 23, 23, 0.4);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+     text-align: center;
+     font-family: copperplate gothic;
+  }
+
+  .github :hover{
+    color: black;
+    background-color: #ddd;
+  }
+
+ 
